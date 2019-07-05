@@ -1,0 +1,52 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Changed network card in server 008",
+      "attention": false,
+      "tech": "Sam Smith",
+      "date": "2019-07-05T01:16:04.041Z"
+    },
+    {
+      "message": "Hard drive failed in workstation 002",
+      "attention": true,
+      "tech": "Sara Wilson",
+      "date": "2019-07-05T00:54:50.394Z",
+      "id": 2
+    },
+    {
+      "message": "1122 wireless down",
+      "attention": true,
+      "tech": "Sara Wilson",
+      "date": "2019-07-05T00:55:08.245Z",
+      "id": 3
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    },
+    {
+      "firstName": "Jen",
+      "lastName": "Williams",
+      "id": 4
+    },
+    {
+      "firstName": "Greg",
+      "lastName": "Harris",
+      "id": 5
+    }
+  ]
+}
